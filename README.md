@@ -1,1 +1,1 @@
-# dlmd_project2_image_classification
+# dlnd_project2_image_classification
